@@ -1,0 +1,2 @@
+18213521-6,Juan,Ulloa,2,ACTIVO
+22047915-3,Carlos,Natruana,4,ACTIVO
